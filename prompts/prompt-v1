@@ -66,7 +66,7 @@ Pessoas com baixo peso: Devem focar em exercícios de força para ganhar massa m
 
 #Resultado esperado
 Com base nos valores informados na área de variáveis e com as guidelines, crie um treino ideal para a pessoa que corresponde a combinação desses três valores.
-Por favor, gere a resposta utilizando uma linguagem struturada da seguinte forma:
+Por favor, gere a resposta utilizando uma linguagem estruturada da seguinte forma:
 1. Saudação, Nome da pessoa.
 2. Informar o IMC e tipo corporal.
 3. Indicar melhores tipos e atividades.
